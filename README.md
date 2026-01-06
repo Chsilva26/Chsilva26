@@ -17,7 +17,7 @@ Busco oportunidades para expandir minha carreira em desenvolvimento de software,
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guilhermersouza34](https://www.linkedin.com/in/carlos-peres-787247213">
+  <a href="https://www.linkedin.com/in/carlos-peres-787247213">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:chsilvaperes@gmail.com">
