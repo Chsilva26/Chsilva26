@@ -1,4 +1,4 @@
-# Sowftware Developer | Carlos Henrique Peres
+# Software Developer | Carlos Henrique Peres
 
 🎓 Graduando em Ciência da Computação 8/8  
 💻 Desenvolvedor de Software em busca de novas oportunidades  
