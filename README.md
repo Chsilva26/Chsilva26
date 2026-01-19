@@ -10,7 +10,7 @@ Sou estudante de Ciência da Computação (8º período) e profissional com expe
 
 Tenho conhecimento sólido em HTML, CSS, JavaScript, PHP, Node.js, Express e MongoDB, além de experiência em manutenção de computadores e equipamentos eletrônicos. Possuo perfil analítico, proativo e orientado à solução de problemas, sempre buscando aprendizado contínuo e aplicação prática de tecnologias para gerar valor aos projetos em que atuo.
 
-Busco oportunidades para expandir minha carreira em desenvolvimento de software, contribuindo para projetos inovadores e aprimorando minhas habilidades técnicas e profissionais.
+Profissional autônomo com experiência em desenvolvimento de software, suporte técnico, Informática e eletrônica, atualmente focado em consolidar carreira como Desenvolvedor/Analista. Possuo conhecimento técnico sólido, perfil analítico e postura empreendedora na entrega de soluções eficientes e personalizadas. Busco oportunidades para aplicar minhas habilidades em tecnologia e contribuir para projetos inovadores. 
 
 ---
 
