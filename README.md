@@ -6,7 +6,7 @@
 
 ---
 
-Sou estudante de Ciência da Computação (8º período) e profissional com mais de 5 anos de experiência em informática de pc, notebooks, impressoras e etc. Também em desenvolvimento web, suporte técnico e automação industrial. Atuo de forma autônoma com manutenção em informática e na criação de sites institucionais e soluções digitais para micro e pequenas empresas, com foco em usabilidade, desempenho e resultados práticos.
+Sou estudante de Ciência da Computação (8º período) e profissional com mais de 5 anos de experiência em informática de pc, notebooks, impressoras e etc. Também em desenvolvimento web, suporte técnico. Atuo de forma autônoma com manutenção em informática e na criação de sites institucionais e soluções digitais para micro e pequenas empresas, com foco em usabilidade, desempenho e resultados práticos.
 
 Tenho conhecimento sólido em HTML, CSS, JavaScript, PHP, Node.js, Express e MongoDB, além de experiência em manutenção de computadores e equipamentos eletrônicos. Possuo perfil analítico, proativo e orientado à solução de problemas, sempre buscando aprendizado contínuo e aplicação prática de tecnologias para gerar valor aos projetos em que atuo.
 
